@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "账号登陆",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}
